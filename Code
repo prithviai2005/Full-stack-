@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Backend Task</title>
+  <style>
+    body {
+      background: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h2 {
+      color: #f5c542;
+    }
+    .section {
+      margin-bottom: 25px;
+      border-bottom: 1px solid #444;
+      padding-bottom: 15px;
+    }
+    ul {
+      margin-top: 5px;
+    }
+    a {
+      color: #4da6ff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="section">
+    <h2>1. Backend Implementation Practice</h2>
+    <p>
+      Recreate everything demonstrated in today’s backend class and ensure your application runs independently.
+    </p>
+    <p>
+      Link:
+      <a href="https://docs.google.com/document/d/1pRLD9AELPazQj9Ub0N9HUMz21brhAstXBHdixN3gRul/edit?usp=sharing" target="_blank">
+        Open Document
+      </a>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>2. MongoDB Setup & Integration</h2>
+    <ul>
+      <li>Create your MongoDB Atlas account</li>
+      <li>Set up database and collection</li>
+      <li>Connect your backend application</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. API Testing using Postman</h2>
+    <ul>
+      <li>Run all backend APIs (CRUD operations)</li>
+      <li>Ensure proper functionality</li>
+      <li>Capture screenshots of all API responses</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. Soft Delete Implementation</h2>
+    <ul>
+      <li>Implement soft delete as discussed</li>
+      <li>Validate it using Postman</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5. GitHub Submission</h2>
+    <ul>
+      <li>Push your complete backend code to GitHub</li>
+      <li>Attach all Postman screenshots (README or folder)</li>
+    </ul>
+  </div>
+
+</body>
+</html>
